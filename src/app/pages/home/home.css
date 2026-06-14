@@ -78,7 +78,11 @@
     bottom: -150px;
     font-weight: 500;
     font-size: 278px;
-    line-height: 1;.main-image {
+    line-height: 1;
+    letter-spacing: -0.05em;
+    color: #ECEDF04D;
+}
+.main-image {
     width: 1024px;
     top: 100px;
     z-index: -2;
